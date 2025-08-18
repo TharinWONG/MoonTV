@@ -1,5 +1,5 @@
-# MoonTV (源碼 最後的版本)
-## 很辛苦找到的 =p 歡迎 Fork ... 並更改其他名稱為專案名稱，以免被刪除。
+# MoonTV (最後開源版本)
+## 歡迎 Fork ... 並更改其他名稱為專案名稱，以免被刪除。
 
 <div align="center">
   <img src="public/logo.png" alt="LibreTV Logo" width="120">
